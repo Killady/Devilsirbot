@@ -8,7 +8,7 @@
     "success_url": "https://github.com/Killady/Devilsirbot",
     "stack": "container",
     "env": {
-        "Devil_SESSION": {
+        "DevilSESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
